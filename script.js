@@ -38,6 +38,6 @@ document.addEventListener('DOMContentLoaded', function(){
  })
 
  ScrollReaveal(). reavel('#inicio' , { deplay: 500});
- ScrollReaveal(). reavel ('#tropicalia',{ deplay: 500})
- ScrollReaveal(). reavel ('#galeria' ,{ deplay: 500});
- ScrollReaveal(). reavel ('#contato',{ deplay: 500});
+ ScrollReaveal(). reavel ('#tropicalia', { deplay: 500})
+ ScrollReaveal(). reavel ('#galeria' , { deplay: 500});
+ ScrollReaveal(). reavel ('#contato', { deplay: 500});
