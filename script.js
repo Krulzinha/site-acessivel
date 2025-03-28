@@ -36,8 +36,8 @@ document.addEventListener('DOMContentLoaded', function(){
  
  
  })
- 
- ScrollReveal().reveal('#inicio', { delay: 500 });
- ScrollReveal().reveal('#tropicalia', { delay: 500 });
- ScrollReveal().reveal('#galeria', { delay: 500 });
- ScrollReveal().reveal('#contato', { delay: 500 });
+
+ ScrollReaveal(). reavel('#inicio' , { deplay: 500});
+ ScrollReaveal(). reavel ('#tropicalia',{ deplay: 500})
+ ScrollReaveal(). reavel ('#galeria' ,{ deplay: 500});
+ ScrollReaveal(). reavel ('#contato',{ deplay: 500});
